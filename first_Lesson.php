@@ -16,7 +16,7 @@ $f = $a / $b;
 echo "$f  </br>";
 
 
-$name = "Deny";
+$name = 'Deny';
 
 $age = 21;
 
