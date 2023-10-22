@@ -8,7 +8,7 @@
 <body>
 <form action="register.php" method="post">
         <label for="username">Логин:</label>
-        <input type="text" >
+        <input type="text">
 
         <label for="password">Пароль:</label>
         <input type="text">
